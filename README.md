@@ -52,7 +52,7 @@ Particularly, these six lines of code inside the flexclass are the heartbeat of 
     justify-content: center  ;
     align-items: center;
     width: 99vw;
-    height: 90vh;
+    height: 95vh;
 }
 ```
 
